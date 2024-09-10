@@ -14,6 +14,6 @@ public class DivisibleByThree {
         else {
             System.out.println(input + " is not divisible by 3");
         }
-        
+
     }
 }
